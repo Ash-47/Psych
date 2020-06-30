@@ -1,0 +1,11 @@
+a:hover, p .mark {
+  color: #b300b3;
+  font-weight: bold;
+}
+
+a:hover {
+  font-family: cursive;
+  text-decoration: none;
+}
+
+/*# sourceMappingURL=style_2.css.map */
