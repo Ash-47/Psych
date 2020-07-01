@@ -1,0 +1,22 @@
+a:hover, p .mark {
+  color: #b300b3;
+  font-weight: bold;
+}
+
+a:hover {
+  font-family: cursive;
+  text-decoration: none;
+}
+
+@media only screen and (max-width: 768px) {
+  body {
+    font-size: 20px;
+  }
+}
+@media only screen and (max-width: 992px) {
+  body {
+    font-size: 18px;
+  }
+}
+
+/*# sourceMappingURL=style_2.css.map */
