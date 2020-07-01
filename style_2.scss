@@ -1,0 +1,15 @@
+$color:#b300b3;
+%template{
+  color:$color;
+  font-weight:bold;
+}
+p{
+  .mark{
+    @extend %template;
+  }
+}
+a:hover{
+  @extend %template;
+  font-family:cursive;
+  text-decoration: none;
+}
