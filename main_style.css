@@ -1,0 +1,30 @@
+h2
+{
+  color:#b300b3;
+}
+body{
+  font-family: cursive;
+}
+table,th,td{
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding:15px;
+}
+th{
+  text-align: center;
+  background-color:powderblue;
+}
+tr:nth-child(odd) {
+  background-color: #ddd;
+}
+
+#left{
+  float:left;
+}
+#right{
+  float:right;
+}
+a:hover{
+  text-decoration: none;
+  font-weight: bold;
+}
