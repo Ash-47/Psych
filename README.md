@@ -1,2 +1,2 @@
-#Psych
-Website on personality pyschology from articles ovefr the internet.
+
+Website on personality pyschology from articles over the internet.
